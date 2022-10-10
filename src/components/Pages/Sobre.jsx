@@ -25,7 +25,7 @@ export const Sobre = () => {
           <h1 className='Titulo'>Sobre</h1>
           <h1>Somos uma empresa especializada em <span className='green'> Desevolvimento Web, Design Web e Automação de servidores no Discord </span><br/><br />
               Buscamos trazer a melhor qualidade e performace no seu projeto <span className='green'></span><br /> <br />
-              Como fazemos? <span className="green">Possuimos um especialista em cada setor desejavel</span> e <span className="green"></span> de acordo com suas necessidade buscamos ultilizar a melhores tecnologias, mais inovadoras da atualidade, alto nivel de confiabilidade e com o <span className="green">MELHOR PREÇO</span></h1> 
+              Como fazemos? <span className="green">Possuimos um especialista em cada setor desejavel</span> e <span className="green"></span> de acordo com suas necessidade buscamos ultilizar as melhores tecnologias, mais inovadoras da atualidade, alto nivel de confiabilidade e tudo isso com o <span className="green">MELHOR PREÇO</span></h1> 
             <aside className="botaosSobre">
             </aside>
         </aside>
