@@ -63,7 +63,7 @@ export default props => {
                     <Item>
                         <Imagem src={Item4}></Imagem>
                         <ProjectContent>
-                            <TitleProject>loja de<SecondTitle>Refrigeração</SecondTitle></TitleProject>
+                            <TitleProject>loja de <SecondTitle>Refrigeração</SecondTitle></TitleProject>
                             <ButtonsArea>
                                 <Button link="https://climatche.com.br/" icon="fa-brands fa-link fa-lg" title= "Acessar"></Button>
                             </ButtonsArea>
