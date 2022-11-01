@@ -4,7 +4,7 @@
 
 Link do Projeto: https://amservicos.pages.dev/
 
-Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo ser um Portifolio Empreserial
+Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo ser um Portifolio Empresarial
 
 ## Layout no mobile
 ![Mobile ](https://github.com/marciosenaf/portifolio-AMservicos/blob/main/src/assets/imgs/mobile.readme.png)
