@@ -1,6 +1,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciosenaf/portifolio-AMservicos/blob/main/LICENSE)
 
-# Sobre o projeto AM servicos
+# Sobre o Projeto AM servicos
 
 Link do Projeto: https://amservicos.pages.dev/
 
