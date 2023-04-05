@@ -15,7 +15,7 @@ export const Projects = () => {
         <main className="ContProjects" id="projetos">
         <aside data-aos="fade" className="ConteudoProjects">
             <aside className="textosProjects">
-                <h1>Projetos <span  className='skillgreen'>Recentes</span> </h1>
+                <h1 className="Projetos__recentes">Projetos <span  className='skillgreen'>Recentes</span> </h1>
             </aside>
             <aside data-aos="fade" className="Carrousel">
               <Carousel></Carousel>

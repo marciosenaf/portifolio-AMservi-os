@@ -32,3 +32,9 @@ aside.textosProjects h1{
     color: #33D9A9;
     font-weight: 400;
 }
+
+@media screen and (max-width: 550px) {
+    aside.textosProjects h1{
+        font-size: 1.8rem;
+    }
+    }

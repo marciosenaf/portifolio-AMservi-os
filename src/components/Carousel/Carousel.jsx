@@ -54,7 +54,7 @@ export default props => {
                     <Item>
                         <Imagem src={Item3}></Imagem>
                         <ProjectContent>
-                            <TitleProject>Página de <SecondTitle>Vendas de curso</SecondTitle></TitleProject>
+                            <TitleProject>Vendas de<SecondTitle> Curso</SecondTitle></TitleProject>
                             <ButtonsArea>
                                 <Button link="https://brunovivas.com/psicanalise-na-vida-cotidiana/" icon="fa-brands fa-link fa-lg" title= "Acessar"></Button>
                             </ButtonsArea>

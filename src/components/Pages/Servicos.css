@@ -27,14 +27,13 @@ aside.textos h1 {
     font-weight: 300;
     text-align: justify;
     white-space: nowrap;
-    
     color: #fff;
 
 }
 
 .txG {
-    font-size:1.4rem;
-    font-weight: 200;
+    font-size: 2.2rem;
+    font-weight: 300;
 }
 
 
@@ -63,6 +62,20 @@ aside.cards {
         justify-content: center;
         align-items: center;
     }
+
+    
+    @media screen and (max-width: 550px) {
+        .txG{
+            font-size: 1.8rem;
+            font-weight: 300;
+        }
+        }
+
+        @media screen and (max-width: 450px) {
+            .txG{
+                font-size: 1.2rem;
+            }
+            }
 
     @media screen and (max-width: 345px) {
         aside.contCard{

@@ -114,6 +114,9 @@ aside.containerSobre img {
     aside.containerSobre h1 {
         text-align:initial;
     }
+    .textoSobre .Titulo {
+        text-align: initial;
+    }
     aside.botaosSobre {
         padding-top: 15px;
         gap: 15;
