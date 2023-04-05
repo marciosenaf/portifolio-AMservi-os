@@ -112,7 +112,7 @@ aside.containerSobre img {
 
 @media screen and (max-width: 560px) {
     aside.containerSobre h1 {
-        text-align: justify;
+        text-align:initial;
     }
     aside.botaosSobre {
         padding-top: 15px;
