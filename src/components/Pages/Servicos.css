@@ -64,6 +64,13 @@ aside.cards {
         align-items: center;
     }
 
+    @media screen and (max-width: 345px) {
+        aside.contCard{
+            width: 250px;
+        }
+        }
+    
+
     
 
     

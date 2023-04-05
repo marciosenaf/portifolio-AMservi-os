@@ -35,6 +35,7 @@ export const ProjectContent = styled.div`
     background-color: #20272F;
     display:flex;
     flex-direction: column;
+    align-items: center;
     width: 100%;
     height: 55%;
 
@@ -44,7 +45,6 @@ export const TitleProject = styled.h1`
     font-weight: 300;
     font-style: 'Oxygen';
     text-align: left;
-    margin-left: 20px;
     font-size: 1.3rem;
     margin-top: 15px;
     color: #ffffff;
