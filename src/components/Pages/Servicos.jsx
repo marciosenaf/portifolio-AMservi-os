@@ -20,7 +20,7 @@ export const Servicos = () => {
     <main className="cardsArea" id="servicos">
       <aside className="contentCards">
         <aside data-aos="fade-right" className="textos" >
-            <h1> <span className="txG">Encontre o serviço ideal<span className="verde"> para você</span></span> </h1>
+            <h1> <span className="txG">O serviço ideal<span className="verde"> para você</span></span> </h1>
         </aside>
         <aside data-aos="fade-up" className="cards">
               <Cards title= "Site Profissional" 
